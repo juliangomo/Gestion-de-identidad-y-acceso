@@ -35,9 +35,13 @@ ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421714-6e024281-d35a-4f9c-a06f-25cc8f9f1b7d.png)
 
+![Infografia autenticación de multifactor V2](https://user-images.githubusercontent.com/125692433/222453211-de5967b0-b342-434b-99d6-02c457560bc0.png)
+
+La **autenticación de multi-factor** es un método que requiere que el usuario realice una múltiple autenticación la cual se puede dar en dos o más pasos con el fn de acceder a un recurso como lo es una aplicación, correo electrónico o una red privada virtual. El empleo de esta reduce la probabilidad de explotación de vulnerabilidades y materialización de riesgos. 
 
 
-Texto e inforgrafíacorta (Miguel)
+
+
 
 ______________________________________________________________________
 
