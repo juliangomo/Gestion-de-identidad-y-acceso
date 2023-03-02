@@ -40,6 +40,13 @@ ______________________________________________________________________
 La **autenticación de multi-factor** es un método que requiere que el usuario realice una múltiple autenticación la cual se puede dar en dos o más pasos con el fn de acceder a un recurso como lo es una aplicación, correo electrónico o una red privada virtual. El empleo de esta reduce la probabilidad de explotación de vulnerabilidades y materialización de riesgos. 
 
 
+Existen tres métodos de autenticación de multi-factor: 
+
+1. Elementos que uno conoce como contraseñas y pin
+2. Elementos que uno posee como un teléfono inteligente
+3. Elementos que son inherentes como los biométricos: huella y reconocimiento por voz
+
+
 
 
 
