@@ -15,7 +15,15 @@ ______________________________________________________________________
 ![image](https://user-images.githubusercontent.com/125692246/222421225-fd34f6f3-708b-40c6-8419-2a4b882c4bae.png)
 
 
-Texto e inforgrafíacorta (Rubén)
+La Gestión de Identidad y Acceso (IAM, por sus siglas en inglés) es un marco de políticas y tecnologías utilizadas para gestionar identidades digitales y derechos de acceso a recursos. La provisión y desprovición son dos componentes clave de IAM.
+
+APROVISIONAMIENTO: La provisión es el proceso de otorgar acceso a recursos, como aplicaciones, datos y sistemas, a un individuo o grupo. Este proceso incluye la creación de cuentas de usuario, la asignación de roles y permisos, y la configuración de políticas de acceso. La provisión puede realizarse de manera manual o mediante herramientas y flujos de trabajo automatizados.
+
+DESAPROVISIONAMIENTO: La desprovición, es el proceso de revocar el acceso a los recursos cuando ya no es necesario. Esto podría deberse a que un empleado deja la empresa o a un cambio en las responsabilidades laborales. La desprovición implica desactivar las cuentas de usuario, revocar privilegios y permisos, y asegurarse de que el usuario ya no tenga acceso a ningún dato confidencial o sensible.
+
+Las prácticas efectivas de provisión y desprovición son esenciales para mantener la seguridad e integridad de los activos digitales de una organización. Un sistema IAM bien diseñado puede ayudar a las organizaciones a garantizar que el acceso a los recursos se otorgue solo al personal autorizado y que se revoque cuando ya no sea necesario. Esto puede ayudar a prevenir brechas de seguridad, pérdida de datos y otros riesgos cibernéticos.
+
+
 
 ______________________________________________________________________
 
