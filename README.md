@@ -15,6 +15,7 @@ ______________________________________________________________________
 ![image](https://user-images.githubusercontent.com/125692246/222421225-fd34f6f3-708b-40c6-8419-2a4b882c4bae.png)
 
 
+
 La Gestión de Identidad y Acceso (IAM, por sus siglas en inglés) es un marco de políticas y tecnologías utilizadas para gestionar identidades digitales y derechos de acceso a recursos. La provisión y desprovición son dos componentes clave de IAM.
 
 APROVISIONAMIENTO: La provisión es el proceso de otorgar acceso a recursos, como aplicaciones, datos y sistemas, a un individuo o grupo. Este proceso incluye la creación de cuentas de usuario, la asignación de roles y permisos, y la configuración de políticas de acceso. La provisión puede realizarse de manera manual o mediante herramientas y flujos de trabajo automatizados.
