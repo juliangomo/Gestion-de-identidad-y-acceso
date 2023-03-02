@@ -6,8 +6,9 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421187-2b672e4b-cc62-468c-a619-d9f2e57f8fdc.png)
 
+![Gestión Ciber (1)](https://user-images.githubusercontent.com/125692246/222469578-2df69774-19e9-42cc-be69-e532daa7cea2.jpg)
 
-![Gestión Ciber](https://user-images.githubusercontent.com/125692246/222458612-d5944c9e-527c-436d-a85c-14b671d49f4e.jpg)
+
 
 Inforgrafía general (Julián, Rubén, Miguel)
 ______________________________________________________________________
