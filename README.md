@@ -93,6 +93,7 @@ ______________________________________________________________________
 - US Department of Commerce. (2023). National Institute of Standars and Technology. https://csrc.nist.gov/glossary/term/role_based_access_control
 - Microsoft Learn. (2023). Procedimiento para aprovisionar usuarios en AD DS. https://learn.microsoft.com/es-es/microsoft-identity-manager/mim-how-provision-users-adds
 - Microsoft Learn. (2023). Desaprovisionamiento de dispositivos aprovisionados automáticamente. https://learn.microsoft.com/es-es/azure/iot-dps/how-to-unprovision-devices
+- IBM. (2023). Inicio de sesión único (SSO). https://www.ibm.com/co-es/topics/single-sign-on#:~:text=El%20inicio%20de%20sesi%C3%B3n%20%C3%BAnico%20(SSO)%20es%20un%20esquema%20de,esa%20sesi%C3%B3n%20sin%20necesidad%20de
 - 
 
 
