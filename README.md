@@ -15,6 +15,8 @@ La Gestión de Identidad y Acceso (IAM, por sus siglas en inglés) es un marco d
 [DESAPROVISIONAMIENTO](https://learn.microsoft.com/es-es/azure/iot-dps/how-to-unprovision-devices) El desaprovisionamiento, es el proceso de revocar el acceso a los recursos cuando ya no es necesario. Esto podría deberse a que un empleado deja la empresa o a un cambio en las responsabilidades laborales. El desaprovisionamiento implica desactivar las cuentas de usuario, revocar privilegios y permisos, y asegurarse de que el usuario ya no tenga acceso a ningún dato confidencial o sensible.
 
 Las prácticas efectivas de aprovisonamiento y desaprovisionamiento son esenciales para mantener la seguridad e integridad de los activos digitales de una organización. Un sistema IAM bien diseñado puede ayudar a las organizaciones a garantizar que el acceso a los recursos se otorgue solo al personal autorizado y que se revoque cuando ya no sea necesario. Esto puede ayudar a prevenir brechas de seguridad, pérdida de datos y otros riesgos cibernéticos.
+
+
 ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421263-c7ad469f-f88f-447a-9eca-7666e08b6958.png)
@@ -25,11 +27,17 @@ La tecnología SSO es posible gracias a la utilización de una infraestructura d
 
 El SSO ofrece varios beneficios, como una experiencia de usuario más fácil y sin interrupciones, reducción de la carga de trabajo del personal de soporte técnico, mayor seguridad, y reducción de los costos de licencias de software y gestión de contraseñas. Sin embargo, también puede presentar riesgos de seguridad si no se implementa adecuadamente, como el riesgo de que un atacante obtenga acceso a varias aplicaciones si logra comprometer las credenciales de inicio de sesión SSO. Por lo tanto, se recomienda que las organizaciones implementen medidas de seguridad adicionales, como el uso de autenticación multifactorial y la monitorización continua de la actividad del usuario.
 
+![image](https://user-images.githubusercontent.com/125692315/222617233-6d041362-2aac-4869-8f6f-41be9fbbb946.png)
+
 ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421652-d3626e2c-69c6-4703-a2eb-37a90fcaa328.png)
 
-Texto e inforgrafíacorta (Rubén)
+El inicio de sesión único federado (FSSO) es una variante del inicio de sesión único (SSO) que permite a los usuarios acceder a múltiples sistemas de software que pertenecen a diferentes organizaciones sin necesidad de tener una cuenta de usuario separada para cada uno de ellos. En otras palabras, FSSO permite a los usuarios autenticarse en un sistema de software y, a continuación, acceder a los sistemas de software de otras organizaciones que han acordado confiar en la autenticación del primer sistema.
+
+FSSO se basa en tecnologías de federación de identidad, como SAML (Security Assertion Markup Language), que permiten a las organizaciones establecer acuerdos de confianza entre sí y compartir información de autenticación de forma segura. Cuando un usuario intenta acceder a un sistema de software federado, el sistema remite al usuario a su sistema de autenticación habitual para que se autentique. Si el usuario se autentica correctamente, el sistema de autenticación emite una "assertión" de seguridad al sistema federado que confirma la autenticación del usuario. A partir de entonces, el usuario puede acceder al sistema federado sin necesidad de volver a autenticarse.
+
+Entre las ventajas del FSSO se incluyen la facilidad de uso para el usuario final, una mayor seguridad y privacidad para los datos de autenticación, y la reducción de la complejidad administrativa y los costos asociados con la gestión de múltiples cuentas de usuario. Sin embargo, el FSSO también presenta desafíos y riesgos de seguridad, como la necesidad de gestionar y mantener una infraestructura de federación de identidad y la posibilidad de ataques de phishing dirigidos a la red de confianza. Por lo tanto, se recomienda que las organizaciones implementen medidas de seguridad adicionales, como la autenticación multifactorial y la monitorización continua de la actividad del usuario, para mitigar estos riesgos.
 
 
 
