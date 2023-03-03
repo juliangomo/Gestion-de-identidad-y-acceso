@@ -92,7 +92,8 @@ ______________________________________________________________________
 
 - US Department of Commerce. (2023). National Institute of Standars and Technology. https://csrc.nist.gov/glossary/term/role_based_access_control
 - Microsoft Learn. (2023). Procedimiento para aprovisionar usuarios en AD DS. https://learn.microsoft.com/es-es/microsoft-identity-manager/mim-how-provision-users-adds
--
+- Microsoft Learn. (2023). Desaprovisionamiento de dispositivos aprovisionados automáticamente. https://learn.microsoft.com/es-es/azure/iot-dps/how-to-unprovision-devices
+- 
 
 
 
