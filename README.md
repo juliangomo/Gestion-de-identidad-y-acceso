@@ -37,7 +37,7 @@ ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421652-d3626e2c-69c6-4703-a2eb-37a90fcaa328.png)
 
-El inicio de sesión único federado (FSSO) es una variante del inicio de sesión único (SSO) que permite a los usuarios acceder a múltiples sistemas de software que pertenecen a diferentes organizaciones sin necesidad de tener una cuenta de usuario separada para cada uno de ellos. En otras palabras, FSSO permite a los usuarios autenticarse en un sistema de software y, a continuación, acceder a los sistemas de software de otras organizaciones que han acordado confiar en la autenticación del primer sistema.
+El [inicio de sesión único federado (FSSO)](https://www.ibm.com/docs/es/baw/20.x?topic=environment-configuring-single-sign&mhsrc=ibmsearch_a&mhq=inicio%20de%20sesi%26oacute%3Bn%20%26uacute%3Bnico%20federado%20%26lpar%3BFSSO%26rpar%3B) es una variante del inicio de sesión único (SSO) que permite a los usuarios acceder a múltiples sistemas de software que pertenecen a diferentes organizaciones sin necesidad de tener una cuenta de usuario separada para cada uno de ellos. En otras palabras, FSSO permite a los usuarios autenticarse en un sistema de software y, a continuación, acceder a los sistemas de software de otras organizaciones que han acordado confiar en la autenticación del primer sistema.
 
 FSSO se basa en tecnologías de federación de identidad, como SAML (Security Assertion Markup Language), que permiten a las organizaciones establecer acuerdos de confianza entre sí y compartir información de autenticación de forma segura. Cuando un usuario intenta acceder a un sistema de software federado, el sistema remite al usuario a su sistema de autenticación habitual para que se autentique. Si el usuario se autentica correctamente, el sistema de autenticación emite una "assertión" de seguridad al sistema federado que confirma la autenticación del usuario. A partir de entonces, el usuario puede acceder al sistema federado sin necesidad de volver a autenticarse.
 
@@ -94,7 +94,7 @@ ______________________________________________________________________
 - Microsoft Learn. (2023). Procedimiento para aprovisionar usuarios en AD DS. https://learn.microsoft.com/es-es/microsoft-identity-manager/mim-how-provision-users-adds
 - Microsoft Learn. (2023). Desaprovisionamiento de dispositivos aprovisionados automáticamente. https://learn.microsoft.com/es-es/azure/iot-dps/how-to-unprovision-devices
 - IBM. (2023). Inicio de sesión único (SSO). https://www.ibm.com/co-es/topics/single-sign-on#:~:text=El%20inicio%20de%20sesi%C3%B3n%20%C3%BAnico%20(SSO)%20es%20un%20esquema%20de,esa%20sesi%C3%B3n%20sin%20necesidad%20de
-- 
+- IBM. (2023). Configuración del inicio de sesión único para entornos de proceso federados. https://www.ibm.com/docs/es/baw/20.x?topic=environment-configuring-single-sign&mhsrc=ibmsearch_a&mhq=inicio%20de%20sesi%26oacute%3Bn%20%26uacute%3Bnico%20federado%20%26lpar%3BFSSO%26rpar%3B
 
 
 
