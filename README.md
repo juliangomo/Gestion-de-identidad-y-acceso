@@ -1,7 +1,9 @@
 ![image](https://user-images.githubusercontent.com/125692246/222421187-2b672e4b-cc62-468c-a619-d9f2e57f8fdc.png)
 
 
-![Gestión Ciber](https://user-images.githubusercontent.com/125692246/222458612-d5944c9e-527c-436d-a85c-14b671d49f4e.jpg)
+![Gestión Ciber](https://user-images.githubusercontent.com/125692315/222625728-109310df-fe64-4856-9f7b-b17ab2d09a6d.jpg)
+
+
 
 ______________________________________________________________________
 
