@@ -8,8 +8,11 @@ ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421225-fd34f6f3-708b-40c6-8419-2a4b882c4bae.png)
 
+La Gestión de Identidad y Acceso (IAM, por sus siglas en inglés) es un marco de políticas y tecnologías utilizadas para gestionar identidades digitales y derechos de acceso a recursos. El aprovisionamiento y el desaprovisionamiento son dos componentes clave de IAM.
 
-Texto e inforgrafíacorta (Rubén)
+[APROVISIONAMIENTO](https://learn.microsoft.com/es-es/microsoft-identity-manager/mim-how-provision-users-adds "Aprovisionamiento").: El aprovisionamiento es el proceso de otorgar acceso a recursos, como aplicaciones, datos y sistemas, a un individuo o grupo. Este proceso incluye la creación de cuentas de usuario, la asignación de roles y permisos, y la configuración de políticas de acceso. El aprovisionamiento puede realizarse de manera manual o mediante herramientas y flujos de trabajo automatizados.
+
+DESAPROVISIONAMIENTO: El desaprovisionamiento, es el proceso de revocar el acceso a los recursos cuando ya no es necesario. Esto podría deberse a que un empleado deja la empresa o a un cambio en las responsabilidades laborales. El desaprovisionamiento implica desactivar las cuentas de usuario, revocar privilegios y permisos, y asegurarse de que el usuario ya no tenga acceso a ningún dato confidencial o sensible.
 
 ______________________________________________________________________
 
