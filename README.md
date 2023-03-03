@@ -12,20 +12,18 @@ La Gestión de Identidad y Acceso (IAM, por sus siglas en inglés) es un marco d
 
 [APROVISIONAMIENTO](https://learn.microsoft.com/es-es/microsoft-identity-manager/mim-how-provision-users-adds "Aprovisionamiento").: El aprovisionamiento es el proceso de otorgar acceso a recursos, como aplicaciones, datos y sistemas, a un individuo o grupo. Este proceso incluye la creación de cuentas de usuario, la asignación de roles y permisos, y la configuración de políticas de acceso. El aprovisionamiento puede realizarse de manera manual o mediante herramientas y flujos de trabajo automatizados.
 
-DESAPROVISIONAMIENTO: El desaprovisionamiento, es el proceso de revocar el acceso a los recursos cuando ya no es necesario. Esto podría deberse a que un empleado deja la empresa o a un cambio en las responsabilidades laborales. El desaprovisionamiento implica desactivar las cuentas de usuario, revocar privilegios y permisos, y asegurarse de que el usuario ya no tenga acceso a ningún dato confidencial o sensible.
+[DESAPROVISIONAMIENTO](https://learn.microsoft.com/es-es/azure/iot-dps/how-to-unprovision-devices) El desaprovisionamiento, es el proceso de revocar el acceso a los recursos cuando ya no es necesario. Esto podría deberse a que un empleado deja la empresa o a un cambio en las responsabilidades laborales. El desaprovisionamiento implica desactivar las cuentas de usuario, revocar privilegios y permisos, y asegurarse de que el usuario ya no tenga acceso a ningún dato confidencial o sensible.
 
+Las prácticas efectivas de aprovisonamiento y desaprovisionamiento son esenciales para mantener la seguridad e integridad de los activos digitales de una organización. Un sistema IAM bien diseñado puede ayudar a las organizaciones a garantizar que el acceso a los recursos se otorgue solo al personal autorizado y que se revoque cuando ya no sea necesario. Esto puede ayudar a prevenir brechas de seguridad, pérdida de datos y otros riesgos cibernéticos.
 ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421263-c7ad469f-f88f-447a-9eca-7666e08b6958.png)
 
-Texto e inforgrafíacorta (Rubén)
+Inicio de sesión único (SSO) es una tecnología de autenticación que permite a los usuarios acceder a múltiples aplicaciones y sistemas de software con una sola identidad y conjunto de credenciales de inicio de sesión. En lugar de tener que ingresar credenciales separadas para cada aplicación, el usuario solo necesita iniciar sesión una vez, lo que le permite acceder a todas las aplicaciones y sistemas de software que estén configurados para SSO.
 
+La tecnología SSO es posible gracias a la utilización de una infraestructura de autenticación centralizada, que almacena y gestiona las credenciales de usuario. Los usuarios pueden autenticarse en esta infraestructura una vez mediante el uso de una contraseña, una tarjeta inteligente, una autenticación biométrica u otros métodos de autenticación, y luego acceder a las aplicaciones y sistemas de software que estén configurados para SSO sin necesidad de volver a autenticarse.
 
-
-
-
-
-
+El SSO ofrece varios beneficios, como una experiencia de usuario más fácil y sin interrupciones, reducción de la carga de trabajo del personal de soporte técnico, mayor seguridad, y reducción de los costos de licencias de software y gestión de contraseñas. Sin embargo, también puede presentar riesgos de seguridad si no se implementa adecuadamente, como el riesgo de que un atacante obtenga acceso a varias aplicaciones si logra comprometer las credenciales de inicio de sesión SSO. Por lo tanto, se recomienda que las organizaciones implementen medidas de seguridad adicionales, como el uso de autenticación multifactorial y la monitorización continua de la actividad del usuario.
 
 ______________________________________________________________________
 
