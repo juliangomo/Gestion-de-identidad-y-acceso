@@ -19,7 +19,7 @@ ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421263-c7ad469f-f88f-447a-9eca-7666e08b6958.png)
 
-Inicio de sesión único (SSO) es una tecnología de autenticación que permite a los usuarios acceder a múltiples aplicaciones y sistemas de software con una sola identidad y conjunto de credenciales de inicio de sesión. En lugar de tener que ingresar credenciales separadas para cada aplicación, el usuario solo necesita iniciar sesión una vez, lo que le permite acceder a todas las aplicaciones y sistemas de software que estén configurados para SSO.
+[Inicio de sesión único (SSO)](https://www.ibm.com/co-es/topics/single-sign-on#:~:text=El%20inicio%20de%20sesi%C3%B3n%20%C3%BAnico%20(SSO)%20es%20un%20esquema%20de,esa%20sesi%C3%B3n%20sin%20necesidad%20de) es una tecnología de autenticación que permite a los usuarios acceder a múltiples aplicaciones y sistemas de software con una sola identidad y conjunto de credenciales de inicio de sesión. En lugar de tener que ingresar credenciales separadas para cada aplicación, el usuario solo necesita iniciar sesión una vez, lo que le permite acceder a todas las aplicaciones y sistemas de software que estén configurados para SSO.
 
 La tecnología SSO es posible gracias a la utilización de una infraestructura de autenticación centralizada, que almacena y gestiona las credenciales de usuario. Los usuarios pueden autenticarse en esta infraestructura una vez mediante el uso de una contraseña, una tarjeta inteligente, una autenticación biométrica u otros métodos de autenticación, y luego acceder a las aplicaciones y sistemas de software que estén configurados para SSO sin necesidad de volver a autenticarse.
 
