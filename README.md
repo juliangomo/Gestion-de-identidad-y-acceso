@@ -3,7 +3,6 @@
 
 ![Gestión Ciber](https://user-images.githubusercontent.com/125692246/222458612-d5944c9e-527c-436d-a85c-14b671d49f4e.jpg)
 
-Inforgrafía general (Julián, Rubén, Miguel)
 ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421225-fd34f6f3-708b-40c6-8419-2a4b882c4bae.png)
@@ -61,10 +60,6 @@ La **autenticación de multi-factor** es un método que requiere que el usuario 
 2. Elementos que uno posee como un teléfono inteligente
 3. Elementos que son inherentes como los biométricos: huella y reconocimiento por voz
 
-
-
-
-
 ______________________________________________________________________
 
 
@@ -84,8 +79,6 @@ ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421824-4df64c98-0d0c-481e-a3a6-5ea6b617a385.png)
 
-
-Texto en viñetas (Julián, Rubén, Miguel)
  
  - La gestión de identidades y accesos proporcionan medidas que deben ser implementadas en una organización con el fin de fortalecer los filtros requeridos a los usuarios cuando empleen recursos informáticos.
  - El control de acceso basado en roles es indispensable en la administración y auditoría de redes ya que facilita la vigilancia de ambientes distribuidos de tecnologías de la información. 
@@ -96,9 +89,6 @@ ______________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/125692246/222421848-eadcef70-8f0c-425b-8a60-7dd21dd01e4e.png)
 
-
-
-Texto en viñetas (Julián, Rubén, Miguel)
 
 - US Department of Commerce. (2023). National Institute of Standars and Technology. https://csrc.nist.gov/glossary/term/role_based_access_control
 
