@@ -17,6 +17,8 @@ La Gestión de Identidad y Acceso (IAM, por sus siglas en inglés) es un marco d
 
 [DESAPROVISIONAMIENTO](https://learn.microsoft.com/es-es/azure/iot-dps/how-to-unprovision-devices) El desaprovisionamiento, es el proceso de revocar el acceso a los recursos cuando ya no es necesario. Esto podría deberse a que un empleado deja la empresa o a un cambio en las responsabilidades laborales. El desaprovisionamiento implica desactivar las cuentas de usuario, revocar privilegios y permisos, y asegurarse de que el usuario ya no tenga acceso a ningún dato confidencial o sensible.
 
+![image](https://user-images.githubusercontent.com/125692315/222619926-ed98a57f-c83a-4a82-898b-1c1107753967.png)
+
 Las prácticas efectivas de aprovisonamiento y desaprovisionamiento son esenciales para mantener la seguridad e integridad de los activos digitales de una organización. Un sistema IAM bien diseñado puede ayudar a las organizaciones a garantizar que el acceso a los recursos se otorgue solo al personal autorizado y que se revoque cuando ya no sea necesario. Esto puede ayudar a prevenir brechas de seguridad, pérdida de datos y otros riesgos cibernéticos.
 
 
