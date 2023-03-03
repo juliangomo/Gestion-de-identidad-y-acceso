@@ -44,9 +44,7 @@ FSSO se basa en tecnologías de federación de identidad, como SAML (Security As
 
 Entre las ventajas del FSSO se incluyen la facilidad de uso para el usuario final, una mayor seguridad y privacidad para los datos de autenticación, y la reducción de la complejidad administrativa y los costos asociados con la gestión de múltiples cuentas de usuario. Sin embargo, el FSSO también presenta desafíos y riesgos de seguridad, como la necesidad de gestionar y mantener una infraestructura de federación de identidad y la posibilidad de ataques de phishing dirigidos a la red de confianza. Por lo tanto, se recomienda que las organizaciones implementen medidas de seguridad adicionales, como la autenticación multifactorial y la monitorización continua de la actividad del usuario, para mitigar estos riesgos.
 
-
-
-
+![image](https://user-images.githubusercontent.com/125692315/222620999-e2dbe3dc-e7ae-4884-887f-159d76f3d66f.png)
 ______________________________________________________________________
 
 
