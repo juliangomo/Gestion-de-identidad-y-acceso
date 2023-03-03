@@ -95,6 +95,7 @@ ______________________________________________________________________
 - Microsoft Learn. (2023). Desaprovisionamiento de dispositivos aprovisionados automáticamente. https://learn.microsoft.com/es-es/azure/iot-dps/how-to-unprovision-devices
 - IBM. (2023). Inicio de sesión único (SSO). https://www.ibm.com/co-es/topics/single-sign-on#:~:text=El%20inicio%20de%20sesi%C3%B3n%20%C3%BAnico%20(SSO)%20es%20un%20esquema%20de,esa%20sesi%C3%B3n%20sin%20necesidad%20de
 - IBM. (2023). Configuración del inicio de sesión único para entornos de proceso federados. https://www.ibm.com/docs/es/baw/20.x?topic=environment-configuring-single-sign&mhsrc=ibmsearch_a&mhq=inicio%20de%20sesi%26oacute%3Bn%20%26uacute%3Bnico%20federado%20%26lpar%3BFSSO%26rpar%3B
+- Digital Guide IONOS. (2019). SSO: un solo inicio de sesión para todo https://www.ionos.es/digitalguide/servidores/herramientas/single-sign-on/
 
 
 
